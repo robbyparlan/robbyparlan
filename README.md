@@ -8,9 +8,7 @@
 
 | NodeJs | Typescript | Golang | Git | Redis | Postgres | MySql | Websocket | REST API |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="Typescript" width="55" height="55"/>|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="Golang" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="Typescript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="Golang" width="55" height="55"/>|
 
 📫 Connect with me:
 - Email: [robbyparlan11@gmail.com](mailto:robbyparlan11@gmail.com)
