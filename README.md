@@ -1,6 +1,6 @@
 ### About Me
 
-🚀 As a Backend Developer based in Indonesian. Starting as junior programmer at 2017. Started as a beginner programmer in 2017, over time it turned out that my interest was more towards backend developer. create services it's must be high performance and robust
+🚀 As a Backend Developer based in Indonesian. Started as a beginner programmer in 2017, over time it turned out that my interest was more towards backend developer. create services it's must be high performance and robust
 
 
 ### Skills, Technologies, and Tools
